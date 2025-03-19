@@ -17,11 +17,11 @@ export default function Home() {
           Please use the following links to access the Consortium's various properties:
         </p>
         <ul>
-          <li><a href="https://www.nicotine360.org">Nicotine360</li>
-          <li><a href="https://www.atnf.forum">American Tobacco & Nicotine Forum (ATNF)</li>
-          <li><a href="https://www.gtnf.org">Global Tobacco & Nicotine Forum (GTNF)</li>
-          <li><a href="https://tobaccoreporter.com">Tobacco Reporter</li>
-          <li><a href="https://industryguide.org">The Industry Guide</li>
+          <li><a href="https://www.nicotine360.org">Nicotine360</a></li>
+          <li><a href="https://www.atnf.forum">American Tobacco & Nicotine Forum (ATNF)</a></li>
+          <li><a href="https://www.gtnf.org">Global Tobacco & Nicotine Forum (GTNF)</a></li>
+          <li><a href="https://tobaccoreporter.com">Tobacco Reporter</a></li>
+          <li><a href="https://industryguide.org">The Industry Guide</a></li>
         </ul>
       </main>
 
