@@ -21,7 +21,6 @@ export default function Home() {
           <li><a href="https://www.atnf.forum">American Tobacco &amp; Nicotine Forum (ATNF)</a></li>
           <li><a href="https://www.gtnf.org">Global Tobacco &amp; Nicotine Forum (GTNF)</a></li>
           <li><a href="https://tobaccoreporter.com">Tobacco Reporter</a></li>
-          /**<li><a href="https://industryguide.org">The Industry Guide</a></li>**/
         </ul>
       </main>
 
