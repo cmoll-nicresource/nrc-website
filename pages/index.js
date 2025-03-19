@@ -18,10 +18,10 @@ export default function Home() {
         </p>
         <ul>
           <li><a href="https://www.nicotine360.org">Nicotine360</a></li>
-          <li><a href="https://www.atnf.forum">American Tobacco & Nicotine Forum (ATNF)</a></li>
-          <li><a href="https://www.gtnf.org">Global Tobacco & Nicotine Forum (GTNF)</a></li>
+          <li><a href="https://www.atnf.forum">American Tobacco &amp; Nicotine Forum (ATNF)</a></li>
+          <li><a href="https://www.gtnf.org">Global Tobacco &amp; Nicotine Forum (GTNF)</a></li>
           <li><a href="https://tobaccoreporter.com">Tobacco Reporter</a></li>
-          <li><a href="https://industryguide.org">The Industry Guide</a></li>
+          /**<li><a href="https://industryguide.org">The Industry Guide</a></li>**/
         </ul>
       </main>
 
